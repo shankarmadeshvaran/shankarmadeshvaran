@@ -21,5 +21,5 @@
 ## Reach me via 👇🏻
 
 <p align="left" >
-<a href="https://medium.com/@shankarmadeshvaran"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"/></a>    <a href="https://www.linkedin.com/in/shankar-mathesh"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"/></a>   <a href="https://twitter.com/Shankar__am"><img height="40" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"/></a>  
+<a href="https://medium.com/@shankarmadeshvaran"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"/></a>&nbsp;<a href="https://www.linkedin.com/in/shankar-mathesh"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"/></a>&nbsp;&nbsp;<a href="https://twitter.com/Shankar__am"><img height="40" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"/></a>  
 </p>
