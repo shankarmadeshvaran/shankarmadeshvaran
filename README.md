@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # I'm a passionate iOS Developer
 
 ## About Me 😁
-* 📱 iOS Developer at  <a href="https://www.fibonalabs.com"><img align='right' src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png?raw=true"></a>
+* 📱 iOS Developer at  <a href="https://www.fibonalabs.com"><img height="75" width="50" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png?raw=true"></a>
 
 * ✨ SwiftUI/Combine Enthusiast
 
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ## Reach me via 👇🏻
 
-<p align='center'>
-  <a href="https://medium.com/@shankarmadeshvaran"><img height="30" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"></a>
-  <a href="https://www.linkedin.com/in/shankar-mathesh"><img height="30" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"></a>
-  <a href="https://twitter.com/Shankar__am"><img height="30" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"></a>
+<p align='center' spacing="15">
+  <a href="https://medium.com/@shankarmadeshvaran"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/shankar-mathesh"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"></a>
+  <a href="https://twitter.com/Shankar__am"><img height="40" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"></a>
 </p>
 
