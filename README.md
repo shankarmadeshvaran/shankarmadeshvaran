@@ -3,7 +3,7 @@
 # I'm a passionate iOS Developer
 
 ## About Me 😁
-* 📱 iOS Developer at  Fibonalabs <a href="https://www.fibonalabs.com"><img height="50" width="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png"></a>
+* 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com) <a href="https://www.fibonalabs.com"><img align="right" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png?raw=true"></a>
 
 * ✨ SwiftUI/Combine Enthusiast
 
@@ -15,7 +15,7 @@
 
 * ✍🏻 I write blogs on iOS , SwiftUI and Mobile App development in [Medium](https://medium.com/@shankarmadeshvaran)
 
-* 💁🏻I share my Insights, Tricks, and Tips on iOS development on my twitter and LinkedIn.
+* 💁🏻I share my Insights, Tricks, and Tips on iOS development on  [Twitter](https://twitter.com/Shankar__am) and [LinkedIn](https://www.linkedin.com/in/shankar-mathesh).
 
 
 ## Reach me via 👇🏻
