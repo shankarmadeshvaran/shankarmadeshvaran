@@ -3,8 +3,12 @@
 # I'm a passionate iOS Developer
 
 ## About Me 😁
-* 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com) <a href="https://www.fibonalabs.com"><img align="right" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png?raw=true"></a>
-
+* 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com) 
+<p>
+<a href="https://www.fibonalabs.com">
+    <img src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png?raw=true">
+</a>
+</p>
 * ✨ SwiftUI/Combine Enthusiast
 
 * 📖 Open Source Contributor
