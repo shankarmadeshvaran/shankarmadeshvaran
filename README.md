@@ -3,12 +3,8 @@
 # I'm a passionate iOS Developer
 
 ## About Me 😁
-* 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com) 
-<p>
-<a href="https://www.fibonalabs.com">
-    <img src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/fibonalabs.png?raw=true">
-</a>
-</p>
+* 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com)
+
 * ✨ SwiftUI/Combine Enthusiast
 
 * 📖 Open Source Contributor
@@ -25,8 +21,5 @@
 ## Reach me via 👇🏻
 
 <p align="left" >
-<a href="https://medium.com/@shankarmadeshvaran"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/shankar-mathesh"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"></a><br />&nbsp;
-  <a href="https://twitter.com/Shankar__am"><img height="40" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"></a><br />
+<a href="https://medium.com/@shankarmadeshvaran"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"/></a>    <a href="https://www.linkedin.com/in/shankar-mathesh"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"/></a>   <a href="https://twitter.com/Shankar__am"><img height="40" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"/></a>  
 </p>
-
