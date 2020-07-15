@@ -18,7 +18,7 @@
 * 💁🏻I share my Insights, Tricks, and Tips on iOS development on  [Twitter](https://twitter.com/Shankar__am) and [LinkedIn](https://www.linkedin.com/in/shankar-mathesh).
 
 
-## Reach me via 👇🏻
+## Let's Connect via 👇🏻
 
 <p align="left" >
 <a href="https://medium.com/@shankarmadeshvaran"><img height="40" src="https://github.com/shankarmadeshvaran/shankarmadeshvaran/blob/master/medium.png?raw=true"/></a>&nbsp;<a href="https://www.linkedin.com/in/shankar-mathesh"><img height="40" src="https://github.com/rufat/rufat/blob/master/linkedin.png?raw=true"/></a>&nbsp;&nbsp;<a href="https://twitter.com/Shankar__am"><img height="40" src="https://github.com/rufat/rufat/blob/master/twitter.png?raw=true"/></a>  
