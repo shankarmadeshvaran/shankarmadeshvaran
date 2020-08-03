@@ -9,7 +9,7 @@
 
 * 📖 Open Source Contributor
 
-* 💻 Code Never Lies
+* 💻 Learn.Code.Share
 
 * ♥️ Exploring new Technologies
 
