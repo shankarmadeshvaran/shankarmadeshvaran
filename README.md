@@ -1,6 +1,6 @@
 **Hi there** 👋🏻
 
-# I'm a passionate iOS Developer
+# I'm a Developer
 
 ## About Me 😁
 * 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com)
