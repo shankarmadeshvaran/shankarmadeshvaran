@@ -5,7 +5,7 @@
 ## About Me 😁
 * 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com)
 
-* 💻 Currently working in React
+* 👨‍💻 Currently working on web development(React)
 
 * ✨ SwiftUI/Combine Enthusiast
 
