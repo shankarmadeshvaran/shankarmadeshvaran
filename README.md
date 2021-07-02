@@ -3,7 +3,7 @@
 # I'm a Developer
 
 ## About Me 😁
-* 📱 iOS Developer at [Fibonalabs](https://www.fibonalabs.com)
+* 📱 Software Development Engineer - 1 at [Fibonalabs](https://www.fibonalabs.com)
 
 * 👨‍💻 Currently working on web development(React)
 
