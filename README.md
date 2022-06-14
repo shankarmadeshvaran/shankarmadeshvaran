@@ -3,9 +3,13 @@
 # I'm a Developer.
 
 ## About Me 😁
-* 📱 Software Development Engineer - 1 at [Fibonalabs](https://www.fibonalabs.com)
+* 📱 Software Engineer Level 1 at [MyGate](https://www.mygate.com)
 
-* 👨‍💻 iOS developer and I'm currently working on web development(React.Js)
+* 👨‍💻 iOS Developer
+
+* 👨‍💻 Web Developer(React.Js)
+
+* ⌨️ Technical Writer
 
 * ✨ SwiftUI/Combine Enthusiast
 
