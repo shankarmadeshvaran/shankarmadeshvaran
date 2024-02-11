@@ -3,11 +3,9 @@
 # I'm a Developer.
 
 ## About Me 😁
-* 📱 Software Engineer Level 1 at [MyGate](https://www.mygate.com)
+* 📱 Software Development Engineer at [MyGate](https://www.mygate.com)
 
-* 👨‍💻 iOS Developer
-
-* 👨‍💻 Web Developer(React.Js)
+* 👨‍💻 iOS/Flutter/React Developer
 
 * ⌨️ Technical Writer
 
