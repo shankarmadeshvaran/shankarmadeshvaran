@@ -17,7 +17,7 @@
 
 * ♥️ Exploring new Technologies
 
-* ✍🏻 I write blogs on iOS , SwiftUI and Mobile App development in [Medium](https://medium.com/@shankarmadeshvaran)
+* ✍🏻 I write blogs on iOS , SwiftUI and Mobile App development in [Hashnode](https://hashnode.com/@shankarmadeshvaran) and [Medium](https://medium.com/@shankarmadeshvaran)
 
 * 💁🏻I share my Insights, Tricks, and Tips on iOS development on  [Twitter](https://twitter.com/devinmaking) and [LinkedIn](https://www.linkedin.com/in/shankar-mathesh).
 
