@@ -3,7 +3,7 @@
 # I'm a Developer.
 
 ## About Me 😁
-* 📱 Software Development Engineer at [MyGate](https://www.mygate.com)
+* 📱 Software Development Engineer 2 at [Mygate](https://www.mygate.com)
 
 * 👨‍💻 iOS/Flutter/React Developer
 
